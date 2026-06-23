@@ -4,14 +4,14 @@ Cursor setup task
 
 ## 1. Tools Installed
 
-- Cursor 
+- Cursor IDE
 - Claude Code Extension
 - Codex Extension
 - GitHub
 
 ## 2. Steps Completed
 
-- Installed Cursor from [cursor.com](https://cursor.com).
+- Installed Cursor IDE from [cursor.com](https://cursor.com).
 - Logged into Cursor.
 - Installed the Claude Code extension and signed in.
 - Installed the Codex extension and signed in.
